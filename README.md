@@ -47,6 +47,7 @@ CPE-010-Portfolio
     ├── <a href="./DSA%20PORTFOLIO/Finals/Hands-on%20Activity%2013.1%20Parallel%20Algorithms%20and%20Multithreading/">Hands-on Activity 13.1 Parallel Algorithms and Multithreading</a>
     └── <a href="./DSA%20PORTFOLIO/Finals/Hands-on%20Activity%2014.1%20Algorithm%20Complexity/">Hands-on Activity 14.1 Algorithm Complexity</a>
 </pre>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=30363d&height=1" width="100%" alt=""/>
 <br>
 ## Topics
 
