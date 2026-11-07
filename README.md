@@ -1,7 +1,7 @@
 # CPE010 - Data Structures and Algorithm - PORTFOLIO
 Course: CPE010 - Data Structures and Algorithm
 
-## About
+## 📖 About
 
 | | |
 |---|---|
@@ -12,14 +12,24 @@ Course: CPE010 - Data Structures and Algorithm
 
 <br>
 
-## Course Description
+Welcome to my **Data Structures and Algorithms Portfolio**!
 
-This course provides an understanding of analyzing algorithms and their complexity. It covers the development of data structures using C++, and applies mathematical techniques to analyze the efficiency of algorithms and the common operations on those structures. Students also implement algorithms and carry out real-system performance measurements and analyses. The course contributes to the attainment of **SDG 9 — Industry, Innovation, and Infrastructure**.
+This repository contains my completed hands-on activities and programming exercises for **CPE010 – Data Structures and Algorithms**.
+
+It showcases my progress in learning fundamental data structures, understanding different algorithmic techniques, and developing problem-solving skills using **C++ programming**.
+
+### 📂 Repository Contents
+
+Each activity is organized into its respective folder and includes:
+
+- **C++ Source Code (`.cpp`)** – Contains the program implementations for each activity.
+- **PDF Documentation (`.pdf`)** – Contains the written documentation, explanations, and activity results.
+
+This portfolio serves as a record of my coursework, programming practice, and development throughout the semester.
+
 
 <br>
-<h1>Repository Map</h1>
-
-<p>Click any folder or activity to jump straight to it.</p>
+<h1> 📂 FILES </h1>
 
 <pre>
 CPE-010-Portfolio
