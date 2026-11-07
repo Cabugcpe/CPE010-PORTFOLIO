@@ -40,7 +40,7 @@ CPE-010-Portfolio
     └── <a href="./DSA%20PORTFOLIO/Finals/Hands-on%20Activity%2014.1%20Algorithm%20Complexity/">Hands-on Activity 14.1 Algorithm Complexity</a>
 </pre>
 <br>
-</h2> 📂 Repository Contents </h2>
+## 📂 Repository Contents 
 
 Each activity is organized into its respective folder and includes:
 
