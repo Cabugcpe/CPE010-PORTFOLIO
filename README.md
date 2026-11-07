@@ -10,8 +10,6 @@ Course: CPE010 - Data Structures and Algorithm
 | **Course** | CPE 010 — Data Structures and Algorithms |
 | **Language** | C++ |
 
-<br>
-
 Welcome to my **Data Structures and Algorithms Portfolio**!
 
 This repository contains my completed hands-on activities and programming exercises for **CPE010 – Data Structures and Algorithms**.
