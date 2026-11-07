@@ -49,6 +49,7 @@ CPE-010-Portfolio
 </pre>
 <img src="https://capsule-render.vercel.app/api?type=rect&color=30363d&height=1" width="100%" alt=""/>
 <br>
+
 ## Topics
 
 | [Prelim](Prelims) | [Midterm](Midterms) | [Final](Finals) |
@@ -57,4 +58,13 @@ CPE-010-Portfolio
 | Arrays and linked lists | Linear search and binary search | Graphs (adjacency matrix and list) |
 | Stacks (array and linked list) | Hashing | **BFS** and **DFS** |
 | Space and time complexity | Basic sorting algorithms | Time complexity classes |
+
+
+## 🛠️ Technologies Used
+
+The following tools and technologies were used in developing and organizing this portfolio:
+
+- **C++** – Used to write and implement the programs for each hands-on activity.
+- **GitHub** – Used to store, manage, and organize the source code and project files.
+- **PDF** – Used to compile and present the documentation for each activity.
 
