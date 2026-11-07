@@ -20,7 +20,6 @@ It showcases my progress in learning fundamental data structures, understanding 
 
 <br>
 <h1> 📂 FILES </h1>
-
 <pre>
 CPE-010-Portfolio
 │
@@ -45,9 +44,7 @@ CPE-010-Portfolio
     ├── <a href="./DSA%20PORTFOLIO/Finals/Hands-on%20Activity%2013.1%20Parallel%20Algorithms%20and%20Multithreading/">Hands-on Activity 13.1 Parallel Algorithms and Multithreading</a>
     └── <a href="./DSA%20PORTFOLIO/Finals/Hands-on%20Activity%2014.1%20Algorithm%20Complexity/">Hands-on Activity 14.1 Algorithm Complexity</a>
 </pre>
-
 <br>
-
 ### 📂 Repository Contents
 
 Each activity is organized into its respective folder and includes:
