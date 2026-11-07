@@ -22,7 +22,6 @@ Each activity is organized into its respective folder and includes:
   
 This portfolio serves as a record of my coursework, programming practice, and development throughout the semester.
 <br>
-## 📂 FILES 
 
 ## 📖 Course Description
 
@@ -44,6 +43,8 @@ After completing this course, students are expected to develop the following ski
 
 3. **Implement Programming Solutions**  
    Apply appropriate data structures and algorithms in C++ while following proper programming practices.
+
+## 📂 FILES 
 <pre>
 CPE-010-Portfolio
 │
