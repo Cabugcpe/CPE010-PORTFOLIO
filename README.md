@@ -49,6 +49,7 @@ CPE-010-Portfolio
 </pre>
 <img src="https://capsule-render.vercel.app/api?type=rect&color=30363d&height=1" width="100%" alt=""/>
 <br>
+
 ## Topics
 
 | [Prelim](Prelims) | [Midterm](Midterms) | [Final](Finals) |
