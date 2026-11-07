@@ -14,6 +14,14 @@ Welcome to my **Data Structures and Algorithms Portfolio**!
 This repository contains my completed hands-on activities and programming exercises for **CPE010 – Data Structures and Algorithms**.
 It showcases my progress in learning fundamental data structures, understanding different algorithmic techniques, and developing problem-solving skills using **C++ programming**.
 
+## 📂 Repository Contents 
+Each activity is organized into its respective folder and includes:
+
+- **C++ Source Code (`.cpp`)** – Contains the program implementations for each activity.
+- **PDF Documentation (`.pdf`)** – Contains the written documentation, explanations, and activity results.
+  
+This portfolio serves as a record of my coursework, programming practice, and development throughout the semester.
+<br>
 ## 📂 FILES 
 <pre>
 CPE-010-Portfolio
@@ -40,12 +48,5 @@ CPE-010-Portfolio
     └── <a href="./DSA%20PORTFOLIO/Finals/Hands-on%20Activity%2014.1%20Algorithm%20Complexity/">Hands-on Activity 14.1 Algorithm Complexity</a>
 </pre>
 <br>
-## 📂 Repository Contents 
 
-Each activity is organized into its respective folder and includes:
-
-- **C++ Source Code (`.cpp`)** – Contains the program implementations for each activity.
-- **PDF Documentation (`.pdf`)** – Contains the written documentation, explanations, and activity results.
-
-This portfolio serves as a record of my coursework, programming practice, and development throughout the semester.
 
