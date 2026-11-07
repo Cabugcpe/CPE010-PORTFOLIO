@@ -18,7 +18,6 @@ This repository contains my completed hands-on activities and programming exerci
 
 It showcases my progress in learning fundamental data structures, understanding different algorithmic techniques, and developing problem-solving skills using **C++ programming**.
 
-<br>
 <h1> 📂 FILES </h1>
 <pre>
 CPE-010-Portfolio
