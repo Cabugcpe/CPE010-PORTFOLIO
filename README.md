@@ -23,6 +23,27 @@ Each activity is organized into its respective folder and includes:
 This portfolio serves as a record of my coursework, programming practice, and development throughout the semester.
 <br>
 ## 📂 FILES 
+
+## 📖 Course Description
+
+This course introduces the concepts and techniques used to organize, manage, and process data efficiently. It focuses on understanding different data structures and algorithms that help solve computational and engineering-related problems through programming.
+
+The topics include algorithm efficiency and complexity, abstract data types, graphs, networks, trees, heaps, stacks, and priority queues. It also covers searching methods such as hashing and tree-based searching, along with basic sorting techniques and external sorting.
+
+Throughout the course, students learn how to design and implement algorithms using different data structures and apply them in developing effective software solutions using **C++ programming**.
+
+## 🎯 Course Outcomes
+
+After completing this course, students are expected to develop the following skills:
+
+1. **Apply Data Structures and Algorithms**  
+   Use fundamental data structures and algorithmic techniques to solve engineering-related problems.
+
+2. **Evaluate Algorithm Efficiency**  
+   Develop algorithms and examine their performance based on time and space complexity.
+
+3. **Implement Programming Solutions**  
+   Apply appropriate data structures and algorithms in C++ while following proper programming practices.
 <pre>
 CPE-010-Portfolio
 │
