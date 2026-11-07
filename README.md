@@ -18,16 +18,6 @@ This repository contains my completed hands-on activities and programming exerci
 
 It showcases my progress in learning fundamental data structures, understanding different algorithmic techniques, and developing problem-solving skills using **C++ programming**.
 
-### 📂 Repository Contents
-
-Each activity is organized into its respective folder and includes:
-
-- **C++ Source Code (`.cpp`)** – Contains the program implementations for each activity.
-- **PDF Documentation (`.pdf`)** – Contains the written documentation, explanations, and activity results.
-
-This portfolio serves as a record of my coursework, programming practice, and development throughout the semester.
-
-
 <br>
 <h1> 📂 FILES </h1>
 
@@ -58,22 +48,12 @@ CPE-010-Portfolio
 
 <br>
 
-## Course Outcomes
+### 📂 Repository Contents
 
-1. Apply fundamental data structures and techniques to solve engineering-related problems through algorithm design.
-2. Design efficient algorithms and analyze their complexity.
-3. Build efficient algorithms based on selected data structures using good programming styles in C++.
+Each activity is organized into its respective folder and includes:
 
-<br>
+- **C++ Source Code (`.cpp`)** – Contains the program implementations for each activity.
+- **PDF Documentation (`.pdf`)** – Contains the written documentation, explanations, and activity results.
 
-## Repository
+This portfolio serves as a record of my coursework, programming practice, and development throughout the semester.
 
-This repository contains my laboratory activities, exercises, and projects for the course.
-
-<br>
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:30363d,100:0d1117&height=100&section=footer&animation=twinkling" width="100%"/>
-
-</div>
