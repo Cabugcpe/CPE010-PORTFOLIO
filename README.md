@@ -48,5 +48,12 @@ CPE-010-Portfolio
     └── <a href="./DSA%20PORTFOLIO/Finals/Hands-on%20Activity%2014.1%20Algorithm%20Complexity/">Hands-on Activity 14.1 Algorithm Complexity</a>
 </pre>
 <br>
+## Topics
 
+| [Prelim](Prelims) | [Midterm](Midterms) | [Final](Finals) |
+|:--|:--|:--|
+| Algorithm analysis and ADTs | Queues (array and linked list) | Trees (BST, AVL, traversals) |
+| Arrays and linked lists | Linear search and binary search | Graphs (adjacency matrix and list) |
+| Stacks (array and linked list) | Hashing | **BFS** and **DFS** |
+| Space and time complexity | Basic sorting algorithms | Time complexity classes |
 
